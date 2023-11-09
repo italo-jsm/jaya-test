@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      username: username
+      password: password
+      uri: mongodb://localhost:27017/db
+      database: jaya
